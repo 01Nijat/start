@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\bin\Debug\netcoreapp3.1\baslangiclar.exe
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\bin\Debug\netcoreapp3.1\baslangiclar.deps.json
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\bin\Debug\netcoreapp3.1\baslangiclar.runtimeconfig.json
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\bin\Debug\netcoreapp3.1\baslangiclar.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\bin\Debug\netcoreapp3.1\baslangiclar.dll
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\bin\Debug\netcoreapp3.1\baslangiclar.pdb
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.dll
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.pdb
+C:\Users\ASUS\source\repos\baslangiclar\baslangiclar\obj\Debug\netcoreapp3.1\baslangiclar.genruntimeconfig.cache
